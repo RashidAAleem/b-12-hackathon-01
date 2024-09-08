@@ -20,9 +20,10 @@ body{
     /* border: 1px solid red; */
     display: flex;
     justify-content: center;
-    width: 70%;
+    /* width: 70%; */
     margin: auto;
-    padding: 70px;
+    gap: 10%;
+    /* padding: 70px; */
     align-items: center;
 }
 .sectiontext{
@@ -86,7 +87,7 @@ body{
     width: 200px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 990px) {
     .header {
         width: 90%;
         padding: 30px;
