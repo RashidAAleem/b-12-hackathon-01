@@ -17,7 +17,7 @@ body{
     gap: 20px;
 }
 .header{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     justify-content: center;
     width: 70%;
@@ -56,7 +56,7 @@ body{
  justify-content: space-around;
 }
 .section1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     padding: 50px;
     justify-content: center;
@@ -65,12 +65,12 @@ body{
    
 }
 .heading-section1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 20px;
     font-weight: 700;
 }
 .text-section1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 30%;
     margin-top: 20px;
 }
