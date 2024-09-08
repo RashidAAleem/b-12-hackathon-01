@@ -78,3 +78,13 @@ body{
     padding-left: 50px;
     padding-right: 50px;
 }
+
+.card{
+    display: flex;
+}
+.illustration1{
+    width: 200px;
+}
+
+
+
