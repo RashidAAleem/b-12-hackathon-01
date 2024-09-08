@@ -1,4 +1,80 @@
+
 body{
     padding: 0;
     margin: 0;
+
+}
+.landing{
+    padding: 20px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;    
+}
+.navbar-nav, .d-flex {
+    gap: 20px;
+}
+.header{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    padding: 70px;
+    align-items: center;
+}
+.sectiontext{
+    
+    /* border: 1px solid red; */
+    margin-right: 20px;
+    width: 30%;
+    height: 100%;
+}
+.text{
+    font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style:normal;
+    margin-bottom: 50px;
+    ;
+}
+.paragraph{
+    margin-bottom: 50px;
+}
+.sectiontimage{
+    width: 50%;
+    margin: 50px;
+}
+.comp-logo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+ display: flex;
+ justify-content: space-around;
+}
+.section1{
+    border: 1px solid red;
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+   
+}
+.heading-section1{
+    border: 1px solid red;
+    margin: 20px;
+    font-weight: 700;
+}
+.text-section1{
+    border: 1px solid red;
+    width: 30%;
+    margin-top: 20px;
+}
+.card-section{
+    padding-left: 50px;
+    padding-right: 50px;
 }
