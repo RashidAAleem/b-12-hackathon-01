@@ -59,8 +59,9 @@ body{
 .section1{
     /* border: 1px solid red; */
     display: flex;
-    padding: 50px;
-    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: left;
     margin: 20px;
     align-items: center;
    
@@ -81,11 +82,18 @@ body{
 }
 
 .row1{
+    
     display: flex;
 }
 .illustration1{
     width: 200px;
 }
+.headingaccordion{
+    display: flex;
+align-items: center;
+gap: 20px;
+}
+
 
 @media (max-width: 990px) {
     .header {
